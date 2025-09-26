@@ -18,7 +18,7 @@
 > **Code and model checkpoints coming soon!**
 
 ## 🔔 What’s new
-- Released **Ego-in-Exo PerceptionMCQ** video QA pairs on [HuggingFace](https://huggingface.co/datasets/dreilly/Ego-in-Exo-PerceptionMCQ):
+- Released **Ego-in-Exo PerceptionMCQ** video QA pairs on [HuggingFace](https://huggingface.co/datasets/dreilly/Ego-in-Exo-PerceptionMCQ)
 
 
 ## Citation
