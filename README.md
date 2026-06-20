@@ -7,12 +7,6 @@
 [![HuggingFace Ego-in-Exo-Perception](https://img.shields.io/badge/🤗%20HuggingFace-Ego--in--Exo%20Perception-FFD21F?style=flat)](https://huggingface.co/datasets/dreilly/Ego-in-Exo-Perception)
 
 </h5>
-
-***
-
-<p>
-  <img src="https://github.com/dominickrei/EgoExo4ADL/blob/main/teaser.png?raw=true" style="margin-bottom: 0.2;"/>
-<p>
 </div>
 
 > **Code and model checkpoints coming soon!**
