@@ -15,6 +15,7 @@ From My View to Yours: Learning Egocentric Cues from Exocentric Video using Priv
 </div>
 
 ## 🔔 What’s new
+- [Sep 2026] Code and training data is released!
 - [Jun 2026] Our work was accepted to **ECCV 2026**!
 - [Sep 2025] Released **Ego-in-Exo Perception** benchmark on [HuggingFace](https://huggingface.co/datasets/dreilly/Ego-in-Exo-Perception)!
 
